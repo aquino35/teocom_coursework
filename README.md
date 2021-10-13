@@ -1,2 +1,2 @@
 # teocom_coursework
-Coursework for INEL4301 (Communications Theory I)
+Coursework for INEL4301 (Communication Theory I)
